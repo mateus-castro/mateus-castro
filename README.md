@@ -10,7 +10,7 @@
 </center>  
 
 
-### Olá! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+### E aí gente! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 ---
 
@@ -25,13 +25,13 @@ Sou formado em Informátia pela ETEC Jorge Street desde 2019.
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/teukastro"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/dii_lua)   
+<a href="https://twitter.com/teukastro"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/teukastro)   
 
-<a href="https://www.instagram.com/o.teu.castro/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
+<a href="https://www.instagram.com/o.teu.castro/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/o.teu.castro)  
 
-<a href="https://www.linkedin.com/in/mateuscastrofortes"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
+<a href="https://www.linkedin.com/in/mateuscastrofortes"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateuscastrofortes)  
 
-<a href="mailto:mateus.fortes@bandtec.com.br"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
+<a href="mailto:mateus.fortes@bandtec.com.br"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/email.png" width="16"></img></a> [Email](mailto:mateus.fortes@bandtec.com.br)  
 
 ---  
 
