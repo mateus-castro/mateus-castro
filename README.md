@@ -14,7 +14,7 @@
 
 ---
 
-Me chamo Mateus Castro Fortes. Sou estudante de Bacharal em Ciência de Dados, e estou no 2º ano do curso na faculdade Bandtec. 
+Me chamo Mateus Castro Fortes. Sou estudante de Bacharal em Ciência da Computação com ênfase em Dados, e estou no 2º ano do curso na faculdade Bandtec. 
 Amo tudo relacionado à música:musical_note:, esporte:basketball: e games:video_game:. 
 
 ---
