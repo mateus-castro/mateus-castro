@@ -19,7 +19,7 @@ Amo tudo relacionado à música:musical_note:, esporte:basketball: e games:video
 
 ---
 
-Sou formado em Informátia pela ETEC Jorge Street desde 2019.  
+Sou formado em Informática pela ETEC Jorge Street desde 2019.  
 
 ---
 
