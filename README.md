@@ -10,7 +10,7 @@
 </center>  
 
 
-### E aí gente! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+### E aí gente!
 
 ---
 
