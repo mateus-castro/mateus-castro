@@ -14,8 +14,7 @@
 
 ---
 
-Me chamo Mateus Castro Fortes. Sou estudante de Bacharel em Ciência da Computação, e estou no 3º ano do curso na faculdade Bandtec. 
-Amo tudo relacionado à música:musical_note:, esporte:basketball: e games:video_game:. 
+Me chamo Mateus Castro Fortes. Sou estudante de Bacharel em Ciência da Computação, e estou no 4º ano do curso na faculdade Bandtec. 
 
 ---
 
@@ -25,13 +24,11 @@ Sou formado em Informática pela ETEC Jorge Street desde 2019.
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/teukastro"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/teukastro)   
-
-<a href="https://www.instagram.com/o.teu.castro/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/o.teu.castro)  
+<a href="https://www.instagram.com/kastroooooooo/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/kastroooooooo)  
 
 <a href="https://www.linkedin.com/in/mateuscastrofortes"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateuscastrofortes)  
 
-<a href="mailto:mateus.fortes@bandtec.com.br"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/email.png" width="16"></img></a> [Email](mailto:mateus.fortes@bandtec.com.br)  
+<a href="mailto:mateuscastrofortes@gmail.com"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/email.png" width="16"></img></a> [Email](mailto:mateuscastrofortes@gmail.com)  
 
 ---  
 
