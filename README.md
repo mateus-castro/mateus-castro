@@ -14,11 +14,7 @@
 
 ---
 
-Me chamo Mateus Castro Fortes. Sou estudante de Bacharel em Ciência da Computação, e estou no 4º ano do curso na faculdade Bandtec. 
-
----
-
-Sou formado em Informática pela ETEC Jorge Street desde 2019.  
+Me chamo Mateus Castro Fortes. Sou Bacharel em Ciência da Computação, e estou adoro codar! 
 
 ---
 
