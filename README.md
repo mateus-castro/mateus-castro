@@ -24,7 +24,7 @@ Sou formado em Informática pela ETEC Jorge Street desde 2019.
 
 Onde me encontrar? :mag:  
 
-<a href="https://www.instagram.com/kastroooooooo/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/kastroooooooo)  
+<a href="https://www.instagram.com/kastroooooooo/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/castrortsac)  
 
 <a href="https://www.linkedin.com/in/mateuscastrofortes"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateuscastrofortes)  
 
