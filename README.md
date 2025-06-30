@@ -10,17 +10,20 @@
 </center>  
 
 
-### E aí gente!
+### e aí gente! eu sou o ***castro*** :D
 
 ---
 
-Me chamo Mateus Castro Fortes. Sou Bacharel em Ciência da Computação, e estou adoro codar! 
+me chamo Mateus Castro Fortes :).
+sou bacharel em ciência da computação e gosto de muitas coisas, hehe. adoro tecnologia, games, música, basquete - e claro - *codar*! 
 
+- 🔭 trabalho no mercado livre!
+- 🌱 estou aprendendo aplicação de gen ai para otimização do processo de desenvolvimento :).
 ---
 
-Onde me encontrar? :mag:  
+caso queiram me encontrar em outros lugares :mag: sigam a lista:
 
-<a href="https://www.instagram.com/kastroooooooo/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/castrortsac)  
+<a href="https://www.instagram.com/castrortsac/"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/castrortsac)  
 
 <a href="https://www.linkedin.com/in/mateuscastrofortes"><img src="https://github.com/mateus-castro/mateus-castro/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateuscastrofortes)  
 
@@ -28,5 +31,5 @@ Onde me encontrar? :mag:
 
 ---  
 
-![](https://komarev.com/ghpvc/?username=leticiadasilva&color=blue&style=flat)
+![contador de views](https://komarev.com/ghpvc/?username=mateus-castro&color=a000ff&style=flat)
 
